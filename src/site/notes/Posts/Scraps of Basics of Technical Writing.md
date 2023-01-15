@@ -60,5 +60,13 @@ an ABS (antilock braking system)
 
 # Verbizm
 
+> 両企業はライセンス契約の修正を行った。
+
+The two companies amended the license agreement.
+
+> 付録1はユニットの分解手順の説明である。
+
+Appendix 1 describes how to disassemble the unit.
+
 # Active Voicezm
 
