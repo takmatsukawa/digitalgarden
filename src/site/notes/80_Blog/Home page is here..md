@@ -5,4 +5,4 @@
 
 Hello world!
 
-[[80_Blog/My First Blog\|My First Blog]]
+[[80_Blog/My First Post\|My First Post]]
