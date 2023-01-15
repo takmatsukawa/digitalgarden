@@ -4,5 +4,3 @@
 
 
 Hello world!
-
-[[80_Blog/My First Post\|My First Post]]
