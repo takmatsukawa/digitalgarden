@@ -68,5 +68,24 @@ The two companies amended the license agreement.
 
 Appendix 1 describes how to disassemble the unit.
 
+> 汚染の原因は工場からの有害物質の漏れであった。
+
+Hazardous materials leaking from the plant caused the pollution.
+
 # Active Voicezm
 
+> この製品には最新の環境基準が適用されています。
+
+This product satisfies the latest enviromental standards.
+
+> 特別チームを編成し、新製品に対するお客様の反応の調査が行われています。
+
+A special team is surveying customer response to the new product.
+
+> 動作中にカバーを開けることは避けてください。
+
+Do not open the cover during operation.
+
+> ミーティングを頻繁に行い、コスト意識の徹底を図ることが必要だ。
+
+We need to hold meetings frequently and make everybody aware of cost.
