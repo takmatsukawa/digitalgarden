@@ -5,4 +5,4 @@
 
 Hello world!
 
-👈 All of my posts are available there. Click the "Posts" link!
+👈 All of my posts are available there. Click on the "Posts" link!
