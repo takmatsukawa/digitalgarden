@@ -117,3 +117,4 @@ We will have the foundation and the structure inspected within three days.
 
 A. This unit has two motors (rotary and linear). The rotary motor drives the tray, and the linear motor drives the optical head.
 B. This unit has two moving parts: a tray and an optical head. The tray is driven by a rotary motor, and the optical head is driven by a liner motor.
+
