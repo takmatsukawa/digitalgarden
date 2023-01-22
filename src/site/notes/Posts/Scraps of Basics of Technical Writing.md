@@ -53,9 +53,9 @@ We aim to produce 36 million tons this year.
 
 > 最近の自動車には、ABSが使われている。
 
-If it was clear what ABS was:
+Standard style:
 an antilock braking system (ABS)
-Or it was not:
+If it was clear what ABS was:
 an ABS (antilock braking system)
 
 # Verbizm
