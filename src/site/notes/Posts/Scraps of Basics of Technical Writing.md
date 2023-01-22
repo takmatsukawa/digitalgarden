@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/scraps-of-basics-of-technical-writing/"}
+{"dg-publish":true,"permalink":"/posts/scraps-of-basics-of-technical-writing/","dgShowToc":true}
 ---
 
 
