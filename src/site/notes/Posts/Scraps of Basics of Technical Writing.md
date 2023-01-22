@@ -117,13 +117,3 @@ We will have the foundation and the structure inspected within three days.
 
 A. This unit has two motors (rotary and linear). The rotary motor drives the tray, and the linear motor drives the optical head.
 B. This unit has two moving parts: a tray and an optical head. The tray is driven by a rotary motor, and the optical head is driven by a liner motor.
-
----
-
-> 学習記録ビューアは、WebClassに蓄積された学習履歴や大学での活動データを集め、振り返りをサポートする情報管理プラットフォームです。
-
-The Log Viewer is an information management platform that collects learning history and activity data in WebClass to support reflection.
-
-> コース活動状況機能により、授業で蓄積されたデータや成果物を教員や学生に見やすい形でフィードバックします。
-
-The course activity status 
