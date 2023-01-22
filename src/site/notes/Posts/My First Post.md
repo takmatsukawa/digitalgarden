@@ -8,3 +8,4 @@ Hi there! This post was published from my obsidian vault. Thanks to the [obsidia
 > [!bug]
 > This site is purposefully created to train my writing skill in English. Some articles may only be halfway through 😎
 
+#todo 
